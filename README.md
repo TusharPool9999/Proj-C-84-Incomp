@@ -1,1 +1,2 @@
-# Proj-C-84-Incomp
+# spectagram-stage-3
+project solution for c83
